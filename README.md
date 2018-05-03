@@ -1,8 +1,6 @@
 # Collaborative License
 A license for compensated creative work.
 
-The collaborative license is part of a larger vision for a revenue sharing business model intended for use on consensus based compute platforms such as RChain or Ethereum.
-
 Projects which use the collaborative license:
 * Identify a stream of revenue,
 * Accept a liability along with collaborative work to be paid from the revenue stream,
@@ -10,6 +8,44 @@ Projects which use the collaborative license:
 * Relinquish any copyrights for work which has been compensated,
 * Openly share any source materials for public collaboration and encourage derivative projects which accept the terms of the license, and
 * Specify a form of governance to be used when making decisions concerning stakeholders of the project which clearly defines their rights and obligations.
+
+_**NOTE**: This license is a work in progress and has **NOT** been reviewed by **ANY** legal professionals. Do **NOT** use this license other than under your own risk and for the purposes of experimentation._
+
+# How the License Works
+The collaborative license is part of a larger vision for a revenue sharing business model intended for use on consensus based compute platforms such as RChain or Ethereum. While it isn't absolutely necessary to use a smart contracting system with the capability of sending and receiving value through code, it is a helpful framework to undstand how the model works.
+
+## The Revenue Stream
+The license is intended for projects that require some form of payment for use of its products or services. As revenue is brought into the project it is distributed to those who hold liabilities against the project, for example, people who have provided work, or funding through loans, or other expenses. 
+    
+## Accept Work along with a Compensation Agreement
+When collaborators do work which is accepted by the project (e.g. when accepting a pull request), then the project also accepts a change to its rules, coded in a smart contract, for how revenue is distributed. In the simplest case, a project might start with no liabilities but then accept some work with an agreement to pay X amount. The project's revenue contract would be modified to transfer 100% of revenue up to X amount. Of course, real projects are made from many contributions so the policies for how the revenue contracts may be modified are covered under the projects governance.
+
+The projects policies for accepting a compensation agreement must be in line with the ethical argument of Dr. David Ellerman (ellerman.org), which, in summary, states that each of us are responsible for our actions. A just system will hold each of us accountable for both the positive and negative outcomes of our actions. When contributors to a project produce something of value, the project must accept a liability, an agreement to share in the proceeds of the organization. For projects with an established revenue stream, this payment could be immediate, or settled in a short time with near term revenue. For startup projects, the liability might remain for years and perhaps never be met because of a lack of revenue. For long term liabilities the project should agree to the value of the work and also terms for payment including interest to be paid from potential future revenue. This contract may be transferrable, allowing a worker to sell their work to someone else.
+
+An individual who collaborates with a project must also accept a portion of the risk of potential liabilities of the proejct. Either individuals should perhaps form an LLC and purchase private insurance, and/or projects may need to purchase insurance to cover their liability.
+
+## Accepting Loans
+Parties can participate in the project by bringing capital in the form of a loan. The process for accepting a loan is similar to accepting a compensation agreement in that the revenue smart contracts are modified to include the payment terms of the loan. The proceeds of the loan are disbursed based on the project's governance policies. This might include payment of compensation, payment of expenses, purchasing of equipment, etc.
+
+## Relinquishing Copyrights for Compensated Work
+For work which has not yet been compensated, any project which were to create a derived work (e.g. a fork) must agree to terms of collecting revenue and sharing that revenue with the source project until its liabilities are paid, by a combination of revenue from the source project and the derived project, up to the point of the fork. Once liabilities are paid the project is made available similar to any other open source project and is free to be used. It is acceptable for a project to include changes to the revenue contracts when receiving revenue from customers (e.g. a 50% split between paying off the projects liabilities and accepting a new liability on behalf of the customer). This provides a way for early customers to share the cost of development with customers who come later.
+
+## Sharing Source Materials
+The goal of the license is to create a means for openly collaborative yet compensated work. The barriers for entry to collaborate on the project should be kept as low as possible with a goal of meeting the same ease of collaboration as is found with open source projects today. People who would like to take the project in a different direction should be free to, but they must work to come to a good faith agreement to generate revenue from their work to compensate any previous work they are building from.
+
+## Project Governance
+The project must clearly state the rights of all stakeholders and the process which project related decisions are made. No specific forms of governance are required but it is expected that effective forms of governance will emerge from the use of smart contract defined processes. At a minimum the project must state policies and procedures for these events:
+* The process for accepting work
+* The process of accepting revenue and how it will be disbursed
+* The policy and process for accepting loans (or not) and how the proceeds of the loan are disbursed
+* The policy and process for negotiating revenue sharing agreements with derivative projects
+* A statement of liability and potential risks associated with participating with the project
+* A statement of applicable jurisdiction and other statements to meet any legal obligations
+
+_**NOTE**: This license is a work in progress and has **NOT** been reviewed by **ANY** legal professionals. Do **NOT** use this license other than under your own risk and for the purposes of experimentation._
+
+# Collaborating on the this Project
+**NOTE**: Any collaboration on this project (github.com/glenbraun/CollaborativeLicense) is done with the assumption of **NO COMPENSATION**. I hope to find funding for the project of defining the license and related smart contracts which support the business model and to use the license itself as the model for the project which defines the license. That is, that users of the license would pay a licensing fee which would provide a revenue stream to compensate contributors and investors. However, no funding has been secured. So, for now, if you collaborate on the project by filing issues in GitHub, discussing the project, or any other form of collaboration you should assume that your collaboration is done for free. 
 
 # Cooperative Decentralized Organizations
 Before mass and digital communications, it was natural to consider an organization as residing at a physical place like a farm, a shop, or a factory. People gathered there to work together to make a product or service to be offered at the market. Because of the organization's physical presence the social conventions of physical property ownership were projected onto the organization. Those who owned the property rights to the land that was farmed, or the plot where the shop or factory sat, it was assumed, should not only command the operation of the work but should also determine how the proceeds be divided. We see this today in the nearly universal practice of owners setting a fixed price for labor in terms of an annual salary or hourly wage, with the remainder of the revenue, minus non-labor expenses, taken as profit.
@@ -20,5 +56,5 @@ As the value in organizations is captured within the combination of software cod
 
 These consensus based compute platforms, due to the very high level of trust they establish, have changed the language that software developers use to describe their work, from the term "program" to "contract". These systems are in their very early stages of adoption but are already transacting $$ of value in simple value trade contracts. Innovative platforms using more expressive contracting languages, such as Rholang on the RChain platform, will enable the creation of organizations defined with an increasingly sophisticated, interdependent collection of computable contractual agreements. The scope of these contracts will quickly expand beyond simple financial transactions to include formally coded procedures for human processes like adding new workers, compensation, planning, etc. If you change the code, you'll change the organization. 
 
-# Next
 
+    
