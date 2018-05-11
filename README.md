@@ -102,7 +102,7 @@ Members performing self-directed work have these rights and obligations:
 * Right of approval for directed work  
    It is the self-directed worker who approves any work provided by a directed worker. The directed worker can state how many hours of work they performed but the self-directed worker approves the work by listing it on their compensation invoice. The self-directed worker may choose to accept the directed worker's claim in full, in part, or not at all.
 * Right to be heard  
-   Self-directed workers have a right to comment on the work and it’s benefits to the coop, their choices and uses of work from the directed work pool, their request compensation and correlated directed work requirement.
+   Self-directed workers have a right to comment on the work and it's benefits to the coop, their choices and uses of work from the directed work pool, their request compensation and correlated directed work requirement.
 * Obligation to obey the law  
    The self-directed worker must obey the law while exercising the right to be the boss. No directed workers should be harmed, discriminated against, abused, threatened, cheated, or otherwise treated in any way not consistent with (and hopefully better than) standard employment practices.
 * Obligation to serve the coop  
