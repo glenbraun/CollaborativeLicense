@@ -18,9 +18,9 @@ The collaborative license is part of a larger vision for a revenue sharing busin
 The license is intended for projects that require some form of payment for use of its products or services. As revenue is brought into the project it is distributed to those who hold liabilities against the project, for example, people who have provided work, or funding through loans, or other expenses. 
     
 ## Accept Work along with a Compensation Agreement
-When collaborators do work which is accepted by the project (e.g. when accepting a pull request), then the project also accepts a change to its rules, coded in a smart contract, for how revenue is distributed. In the simplest case, a project might start with no liabilities but then accept some work with an agreement to pay X amount. The project's revenue contract would be modified to transfer 100% of revenue up to X amount. Of course, real projects are made from many contributions so the policies for how the revenue contracts may be modified are covered under the project's governance.
+When collaborators do work which is accepted by the project (e.g. when accepting a pull request), then the project also accepts a change to its rules, potentially coded in a smart contract, for how revenue is distributed. In the simplest case, a project might include a single liability: an agreement to pay the project author X amount. All revenue would be transferred to the project author until the amount is payed, at which point the project would become free to use. Of course, real projects are made from many contributions so the policies for how the revenue contracts may be modified are covered under the project's governance.
 
-The project's policies for accepting a compensation agreement must be in line with the ethical argument of Dr. David Ellerman (ellerman.org), which, in summary, states that each of us are responsible for our actions. A just system will hold each of us accountable for both the positive and negative outcomes of our actions. When contributors to a project produce something of value, the project must accept a liability, an agreement to share in the proceeds of the organization. For projects with an established revenue stream, this payment could be immediate, or settled in a short time with near term revenue. For startup projects, the liability might remain for years and perhaps never be met because of a lack of revenue. For long term liabilities, the project should agree to the value of the work and also to terms for payment, including interest to be paid from potential future revenue. This contract may be transferrable, allowing a worker to sell their work to someone else.
+The project's policies for accepting a compensation agreement must hold each contributer accountable for both the positive and negative outcomes of our actions. When contributors to a project produce something of value, the project must accept a liability, an agreement to share in the proceeds of the organization. For projects with an established revenue stream, this payment could be immediate, or settled in a short time with near term revenue. For startup projects, the liability might remain for years and perhaps never be met because of a lack of revenue. For long term liabilities, the project should agree to the value of the work and also to terms for payment, including interest to be paid from potential future revenue. This contract may be transferable, allowing a worker to sell their work to someone else.
 
 An individual who collaborates with a project must also accept a portion of the risk of any potential liabilities of the project. Options for individual collaborators include but are not limited to forming an LLC and purchasing private insurance or, working with a project's governance to purchase liability insurance for all contributors.
 
@@ -28,7 +28,7 @@ An individual who collaborates with a project must also accept a portion of the 
 Parties can participate in the project by bringing capital in the form of a loan. The process for accepting a loan is similar to accepting a compensation agreement in that the revenue smart contracts are modified to include the payment terms of the loan. The proceeds of the loan are disbursed based on the project's governance policies. This might include payment of compensation, payment of expenses, purchasing of equipment, etc.
 
 ## Relinquishing Copyrights for Compensated Work
-For work which has not yet been compensated, any project which would create a derived work (e.g. a fork) must agree to terms of collecting revenue and sharing that revenue with the source project until its liabilities are paid, by a combination of revenue from the source project and the derived project, up to the point of the fork. Once liabilities are paid, the project is made available similar to any other open source project and is free to be used. It is acceptable for a project to include changes to the revenue contracts when receiving revenue from customers (e.g. a 50% split between paying off the projects liabilities and accepting a new liability on behalf of the customer). This provides a way for early customers to share the cost of development with customers who come later.
+For work which has not yet been compensated, any project which would create a derived work (e.g. a fork) must agree to terms of collecting revenue and sharing that revenue with the source project until its liabilities (up to the point of the fork) are paid, by a combination of revenue from the source project and the derived project. Once liabilities are paid, the project is made available similar to any other open source project and is free to be used. It is acceptable for a project to include changes to the revenue contracts when receiving revenue from customers (e.g. a 50% split between paying off the projects liabilities and accepting a new liability on behalf of the customer). This provides a way for early customers to share the cost of development with customers who come later.
 
 ## Sharing Source Materials
 The goal of the license is to create a means for openly collaborative yet compensated work. The barriers for entry to collaborate on the project should be kept as low as possible with a goal of meeting the same ease of collaboration as is found with open source projects today. People who would like to take the project in a different direction should be free to, but they must work to come to a good faith agreement to generate revenue from their work to compensate any previous work they are building from.
@@ -36,7 +36,7 @@ The goal of the license is to create a means for openly collaborative yet compen
 ## Project Governance
 The project must clearly state the rights of all stakeholders and the process which project-related decisions are made. No specific forms of governance are required, but it is expected that effective forms of governance will emerge from the use of smart-contract-defined processes. At a minimum, the project must state policies and procedures for these events:
 * The process for accepting work
-* The process of accepting revenue and how it will be disbursed
+* The process of pricing / accepting revenue and how it will be disbursed
 * The policy and process for accepting loans (or not) and how the proceeds of the loan are disbursed
 * The policy and process for negotiating revenue sharing agreements with derivative projects
 * A statement of liability and potential risks associated with participating with the project
@@ -73,16 +73,16 @@ In the cooperative COST labor system, members initiate creative projects and sol
 Supportive work is motivated by alignment with a shared vision. 
 
 In the cooperative COST labor system, supportive work is requested and accepted through a project defined by another member's creative work. Acceptance of supportive work hours unlocks the worker's self-assessed compensation balance for payment.
-	 
+	Â 
 ### Project Catalog
 The project catalog is a database of projects. Each item in the catalog contains, at a minimum, a description of the project's creative vision, as well as a history of supportive work accepted by the project to date.
-	 
+	Â 
 ### Member Profiles
 Member's maintain profiles which describes their skills, interests, and work history. Associated with each profile is an availability calendar which other members can use to solicit the member for supportive work on a creative project.
 
 ### Compensation Panels
 Compensation panels are dynamically assembled groups of coop members who review and pass judgement on compensation invoices. The panels are formed by selecting at least one board member and some number, perhaps two or four, members at random from the membership. These panels are formed to meet the demand of outstanding compensation invoices. Each panel uses a democratic process of quadratic voting to approve, reject, or amend compensation invoices. No member of a panel can review their own work.
-	 
+	Â 
 ### Compensation Invoices
 Members submit invoices for compensation for approval by a compensation panel. The invoice contains a statement of the work to be compensated which lists the project, its creator's self-assessed compensation, and any supportive work that was approved. 
 	
