@@ -14,6 +14,8 @@ _**NOTE**: This license is a work in progress and has **NOT** been reviewed by *
 # How the License Works
 The collaborative license is part of a larger vision for a revenue sharing business model intended for use on consensus-based compute platforms such as RChain or Ethereum. While it isn't absolutely necessary to use a smart contracting system with the capability of sending and receiving value through code, it is a helpful framework to understand how the model works.
 
+![Contract as a License](LicenseDiagram.png )
+
 ## The Revenue Stream
 The license is intended for projects that require some form of payment for use of its products or services. As revenue is brought into the project it is distributed to those who hold liabilities against the project, for example, people who have provided work, or funding through loans, or other expenses. 
     
