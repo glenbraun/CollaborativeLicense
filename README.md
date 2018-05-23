@@ -1,9 +1,9 @@
-# Collaborative License
-A license for compensated creative work.
+# Cooperative License
+A license for compensatated work through revenue sharing using smart contracts.
 
-Projects which use the collaborative license:
+Projects which use the cooperative license:
 * Identify a stream of revenue;
-* Accept a liability along with collaborative work to be paid from the revenue stream;
+* Accept a liability along with contributive effort to be paid from the revenue stream;
 * May accept investment in the form of loans with both principal and interest to be paid from the revenue stream;
 * Relinquish any copyrights for work which has been compensated;
 * Openly share any source materials for public collaboration and encourage derivative projects which accept the terms of the license; and
@@ -12,7 +12,7 @@ Projects which use the collaborative license:
 _**NOTE**: This license is a work in progress and has **NOT** been reviewed by **ANY** legal professionals. Do **NOT** use this license other than under your own risk and for the purposes of experimentation._
 
 # How the License Works
-The collaborative license is part of a larger vision for a revenue sharing business model intended for use on consensus-based compute platforms such as RChain or Ethereum. While it isn't absolutely necessary to use a smart contracting system with the capability of sending and receiving value through code, it is a helpful framework to understand how the model works.
+The cooperative license is part of a larger vision for a revenue sharing business model intended for use on consensus-based compute platforms such as RChain or Ethereum. While it isn't absolutely necessary to use a smart contracting system with the capability of sending and receiving value through code, it is a helpful framework to understand how the model works.
 
 ![Contract as a License](LicenseDiagram.png )
 
